@@ -4,13 +4,14 @@ Sou estudante de engenharia de computação na PUC-MG e apaixonado pelo universo
 
 Vocês encontrarão alguns de meus projetos neste perfil do github!
 
-Não muitos, pois não sou a pessoa mais ativo nessa plataforma :/
+Não muitos, pois não sou a pessoa mais ativa nessa plataforma :/
 
 ## Interesses
 
 * Deep Learning
 * Cultura DevOps
 * Quality Assurance
+* Sistemas distribuidos
 * Segurança da informação
 * Desenvolvimento Backend
 * Sistemas embarcados e Internet das coisas
@@ -26,16 +27,16 @@ Não muitos, pois não sou a pessoa mais ativo nessa plataforma :/
             <a href='http://www.open-std.org/jtc1/sc22/wg14/' title='C Language'><img width=25 src='https://www.learn-c.org/static/img/favicons/learn-c.org.ico'></a>
         </td>
         <td>
-            <a href='https://go.dev/' title='Go'><img width=25 src=''></a>
+            <a href='https://go.dev/' title='Go'><img width=35 src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F05%2FGo_Logo_Blue.svg%2F1200px-Go_Logo_Blue.svg.png&f=1&nofb=1'></a>
         </td>
         <td>
-            <a href='https://www.python.org/' title='Python'><img width=25 src=''></a>
+            <a href='https://www.python.org/' title='Python'><img width=25 src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.HrBOk_qD-pQSmgSI3XzRJAHaHw%26pid%3DApi&f=1'></a>
         </td>
         <td>
-            <a href='https://www.java.com/' title='Java'><img width=25 src=''></a>
+            <a href='https://www.java.com/' title='Java'><img width=25 src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmpng.subpng.com%2F20180404%2Febw%2Fkisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg&f=1&nofb=1'></a>
         </td>
         <td>
-            <a href='https://www.javascript.com/' title='Javascript'><img width=30' src='https://www.javascript.com/etc/clientlibs/pluralsight/main/images/favicons/apple-touch-icon-76x76.png'></a>
+            <a href='https://www.javascript.com/' title='Javascript'><img width=25' src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.vkY4IyGFjWFicYCVpE0gkQHaIW%26pid%3DApi&f=1'></a>
         </td>
     </tr>
 </table>
@@ -81,16 +82,16 @@ Não muitos, pois não sou a pessoa mais ativo nessa plataforma :/
 <table border="0">
     <tr>
         <td>
-            <a href='https://git-scm.com/' title='Git'><img width=25 src=''></a>
+            <a href='https://git-scm.com/' title='Git'><img width=35 src='https://git-scm.com/images/logo@2x.png'></a>
         </td>
         <td>
-            <a href='https://maven.apache.org' title='Maven'><img width=25 src=''></a>
+            <a href='https://maven.apache.org' title='Maven'><img width=45 src='https://maven.apache.org/images/maven-logo-black-on-white.png'></a>
         </td> 
         <td>
-            <a href='https://www.docker.com/' title='Docker'><img width=25 src=''></a>
+            <a href='https://www.docker.com/' title='Docker'><img width=45 src='https://www.docker.com/sites/default/files/social/docker_facebook_share.png'></a>
         </td> 
         <td>
-            <a href='https://www.latex-project.org' title='LaTeX'><img width=25 src=''></a>
+            <a href='https://www.latex-project.org' title='LaTeX'><img width=35 src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.HmSeulM_szANBFdbKajpRgAAAA%26pid%3DApi&f=1'></a>
         </td>
     </tr>
 </table>
