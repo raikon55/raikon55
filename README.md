@@ -18,7 +18,7 @@ Não muitos, pois não sou a pessoa mais ativa nessa plataforma :/
 * Automação de tarefas e um pouco de análise de dados
 * Interação Humano-Computador , com foco em acessibilidade e inclusão
 
-## Ferramentas utilizadas / Tools that I use
+## Ferramentas utilizadas
 
 ### Linguagens
 <table border="0">
