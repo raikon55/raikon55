@@ -15,7 +15,6 @@ Não muitos, pois não sou a pessoa mais ativa nessa plataforma :/
 * Segurança da informação
 * Desenvolvimento Backend
 * Sistemas embarcados e Internet das coisas
-* Automação de tarefas e um pouco de análise de dados
 * Interação Humano-Computador , com foco em acessibilidade e inclusão
 
 ## Ferramentas utilizadas
@@ -111,7 +110,7 @@ Não muitos, pois não sou a pessoa mais ativa nessa plataforma :/
     </tr>
 </table>
 
-### Banco de dados | Databases
+### Banco de dados
 <table border="0">
     <tr>
         <td>
@@ -123,7 +122,7 @@ Não muitos, pois não sou a pessoa mais ativa nessa plataforma :/
     </tr>
 </table>
 
-## Contatos, informações e perfis
+## Contatos
 <table  border="0">
     <tr>
         <td>
